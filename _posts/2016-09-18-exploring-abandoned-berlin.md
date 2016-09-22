@@ -20,25 +20,25 @@ Till, we met Astrid. A travel blogger who (cleverly) hadn't read much online and
 
 As I was jumping over my heart was beating so bloody fast. I don't remember much except throwing my bag over, me jumping over, then running as fast as I could into the bushes. We started to slowly wander around and within 5 minutes saw a guard. There the 3 of us were, hiding in some bushes next to the abandoned bumper cars. I cannot tell you the last time I felt scared of getting told off by someone. Looking back now it's hilarious, but at the time I was petrified.
 
-[![Us hiding](/images/spreepark/DSC01274.jpg)]()
+![See us hiding](/images/spreepark/DSC01274.jpg)
 
 Once we'd waited 5 minutes till the guard had gone we continued exploring.
 
-[![Us hiding](/images/spreepark/DSC01260.jpg)]()
+![The abandoned tea cups](/images/spreepark/DSC01260.jpg)
 
-[![Us hiding](/images/spreepark/DSC01272.jpg)]()
+![The abandoned playground](/images/spreepark/DSC01272.jpg)
 
-[![Us hiding](/images/spreepark/DSC01278.jpg)]()
+![The abandoned bumper car](/images/spreepark/DSC01278.jpg)
 
-[![Us hiding](/images/spreepark/DSC01280.jpg)]()
+![The abandoned ferris wheel](/images/spreepark/DSC01280.jpg)
 
-[![Us hiding](/images/spreepark/DSC01306.jpg)]()
+![The abandoned rollercoaster](/images/spreepark/DSC01306.jpg)
 
-[![Us hiding](/images/spreepark/DSC01308.jpg)]()
+![The abandoned rollercoaster](/images/spreepark/DSC01308.jpg)
 
-[![Us hiding](/images/spreepark/DSC01313.jpg)]()
+![The abandoned log flume cars](/images/spreepark/DSC01313.jpg)]
 
-[![Us hiding](/images/spreepark/DSC01317.jpg)]()
+![The abandoned exit of the log flume](/images/spreepark/DSC01317.jpg)]
 
 We spent 2.5 hours in the park and it is the best thing I have done in Berlin so I am so glad we met Astrid. Sometimes you simply need someone to tell you stop being a fool and have fun.
 
@@ -48,25 +48,25 @@ Up next was Teufelsberg, a man-made hill that covers a Nazi military-technical c
 
 The first thing I noticed when I started walking around was the graffiti.
 
-[![Us hiding](/images/teufelsberg/DSC01339.jpg)]()
+![Graffiti](/images/teufelsberg/DSC01339.jpg)
 
 One of the my favourite things about this place was that you could see people use the space now to party. With glass bottles scattered everywhere. Even a beer can bin.
 
-[![Us hiding](/images/teufelsberg/DSC01343.jpg)]()
+![Beer can bin](/images/teufelsberg/DSC01343.jpg)
 
 A hole in the wall that DEFINITELY looks like a DJ booth.
 
-[![Us hiding](/images/teufelsberg/DSC01342.jpg)]()
+![Possible DJ booth](/images/teufelsberg/DSC01342.jpg)
 
 Now onto the Spy Tower. My favourite thing about this place was that you could only get to the spy tower via a pitch black concrete staircase with signs like this.
 
-[![Us hiding](/images/teufelsberg/DSC01352.jpg)]()
+![Funny graffifi sign](/images/teufelsberg/DSC01352.jpg)]
 
-[![Us hiding](/images/teufelsberg/DSC01353.jpg)]()
+![Part of the abandoned spy tower](/images/teufelsberg/DSC01353.jpg)]
 
-[![Us hiding](/images/teufelsberg/DSC01362.jpg)]()
+![Part of the abandoned spy tower](/images/teufelsberg/DSC01362.jpg)
 
-[![Us hiding](/images/teufelsberg/DSC01375.jpg)]()
+![Part of the abandoned spy tower](/images/teufelsberg/DSC01375.jpg)]
 
 See a spy tower! Hi Berlin.
 

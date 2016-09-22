@@ -19,6 +19,9 @@
 }
 
  .post {
+   em {
+     font-size: 10px;
+   }
         a {
          color: $mono-color;
          &:hover{
