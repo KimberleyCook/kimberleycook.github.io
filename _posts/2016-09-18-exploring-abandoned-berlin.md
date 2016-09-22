@@ -36,9 +36,9 @@ Once we'd waited 5 minutes till the guard had gone we continued exploring.
 
 ![The abandoned rollercoaster](/images/spreepark/DSC01308.jpg)
 
-![The abandoned log flume cars](/images/spreepark/DSC01313.jpg)]
+![The abandoned log flume cars](/images/spreepark/DSC01313.jpg)
 
-![The abandoned exit of the log flume](/images/spreepark/DSC01317.jpg)]
+![The abandoned exit of the log flume](/images/spreepark/DSC01317.jpg)
 
 We spent 2.5 hours in the park and it is the best thing I have done in Berlin so I am so glad we met Astrid. Sometimes you simply need someone to tell you stop being a fool and have fun.
 
@@ -60,17 +60,17 @@ A hole in the wall that DEFINITELY looks like a DJ booth.
 
 Now onto the Spy Tower. My favourite thing about this place was that you could only get to the spy tower via a pitch black concrete staircase with signs like this.
 
-![Funny graffifi sign](/images/teufelsberg/DSC01352.jpg)]
+![Funny graffifi sign](/images/teufelsberg/DSC01352.jpg)
 
-![Part of the abandoned spy tower](/images/teufelsberg/DSC01353.jpg)]
+![Part of the abandoned spy tower](/images/teufelsberg/DSC01353.jpg)
 
 ![Part of the abandoned spy tower](/images/teufelsberg/DSC01362.jpg)
 
-![Part of the abandoned spy tower](/images/teufelsberg/DSC01375.jpg)]
+![Part of the abandoned spy tower](/images/teufelsberg/DSC01375.jpg)
 
 See a spy tower! Hi Berlin.
 
-[![Us hiding](/images/teufelsberg/DSC01372.jpg)]()
+![Peek a book Berlin](/images/teufelsberg/DSC01372.jpg)]
 
 
 
