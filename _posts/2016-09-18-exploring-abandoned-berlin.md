@@ -60,7 +60,7 @@ You can also tell people party here as there were empty glass bottles everywhere
 
 Now onto the Spy Tower. My favourite thing about this place was that you could only get to the top of the tower via a pitch black concrete staircase with signs like this.
 
-![Funny graffifi sign](/images/teufelsberg/DSC01352.jpg)
+![Funny graffiti sign](/images/teufelsberg/DSC01352.jpg)
 
 ![Part of the abandoned spy tower](/images/teufelsberg/DSC01353.jpg)
 
