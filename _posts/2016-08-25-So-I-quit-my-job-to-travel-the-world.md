@@ -1,6 +1,6 @@
 ---
 layout: post
-title: So I quit my job to travel the world.
+title: So I quit my job to travel the world
 excerpt: That’s how all nomad blogs should start right?
 ---
 
@@ -13,3 +13,5 @@ So I packed up some clothes into a backpack* and set off for my first destinatio
 [![Ready for Berlin](/images/ready-for-berlin.jpg)]()
 
 *p.s this actually took some time so I will do another post detailing how I minimised my possessions.
+
+KC x

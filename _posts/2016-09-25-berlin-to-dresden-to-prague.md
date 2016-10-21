@@ -13,3 +13,5 @@ We could've got the 2 hour train to Prague from Berlin but why do that when you 
 Oh and to add to the boat adventure we decided to spend our night in Dresden on a boat too.
 
 ![Overnight boat in Dresden](/images/dresden/dresden-boat.jpg)
+
+KC x

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Exploring Abandoned Berlin
+title: Exploring abandoned Berlin
 ---
 
 One of my favourite things about Berlin is its history. Yes Berlin has many museums, and is very well known for it's clubbing reputation. But one of the things that intrigues me the most are the abandoned parts you'll find hidden around the city.  
@@ -73,3 +73,5 @@ See, a spy tower! Hi Berlin.
 ![Peek a book Berlin](/images/teufelsberg/DSC01372.jpg)
 
 Visiting these 2 places was hugely inspired by finding this website, [Abandoned Berlin](http://www.abandonedberlin.com/), which I highly recommend looking through. (If abandoned creepy shit is your thing of course). One of the things I did not get time to explore was this [abandoned hospital](http://www.abandonedberlin.com/2015/06/koenigin-elisabeth-hospital.html). Always next time :)
+
+KC x
