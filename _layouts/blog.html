@@ -23,20 +23,8 @@
       <div class="container">
         <div class="post-heading">
             <h1>{{page.title}}</h1>
-            <span class="meta">Posted by <a href="{{ site.baseurl }}/about"> {{page.author}}
-            </a> on {{ page.date | date: "%B %e, %Y" }}
-            <a href="{{ site.baseurl }}/"> { Return to Blog }</a>
-            </span>
-        </div>
-        
-        <div class="fork-me-wrapper">
-          <div class="fork-me">
-            <a class="fork-me-link" href="https://github.com/AkshayAgarwal007/Jekyll-Mono">
-            <span class="fork-me-text">Fork Me On GitHub</span>
-            </a>
-          </div>
-       </div>
-            
+            <span class="meta">Posted on {{ page.date | date: "%B %e, %Y" }}</span>
+        </div> 
       </div>
     </div>
     

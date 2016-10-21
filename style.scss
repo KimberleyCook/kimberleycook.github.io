@@ -20,7 +20,7 @@ html {
 
 body {
   background: $white;
-  font: 18px/1.4 $helvetica;
+  font: 18px/1.4 $tahoma;
   color: $darkGray;
 }
 
@@ -32,7 +32,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
+  font-family: $tahoma;
   color: $darkerGray;
   font-weight: bold;
 
@@ -196,7 +196,7 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $helveticaNeue;
+  font-family: $tahoma;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -206,16 +206,21 @@ img {
   margin: -5px 0 0 0;
   color: $white;
   font-size: 16px;
+  letter-spacing: 0.75px;
 
   @include mobile {
     margin: 3px 0;
   }
 }
 
+.entry {
+  margin-bottom: 30px;
+}
+
 nav {
   float: right;
-  margin-top: 23px; 
-  font-family: $helveticaNeue;
+  margin-top: 23px;
+  font-family: $tahoma;
   font-size: 18px;
 
   @include mobile {
@@ -231,7 +236,7 @@ nav {
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
-    
+
     &:hover, &:active {
       color: darken($navbar-hover-color,20);
     }
@@ -279,7 +284,6 @@ nav {
 
 .wrapper-footer {
   margin-top: 50px;
-  border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
   background-color: $lightGray;
 }
