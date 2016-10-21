@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Berlin so far
+excerpt: I have been in Berlin for 7 weeks, it has gone ridiculously quick and I have loved almost every moment. I remember someone saying before I left the UK that I would learn more about UK culture once I'd gone. I didn't quiet fully understand what they meant at the time, but now I do.
 ---
 
 I have been in Berlin for 7 weeks, it has gone ridiculously quick and I have loved *almost* every moment. I remember someone saying before I left the UK that I would learn more about UK culture once I'd gone. I didn't quiet fully understand what they meant at the time, but now I do.
