@@ -3,7 +3,7 @@ layout: post
 title: Hurricane Irma
 ---
 
-This post isn't going to be like my normal ones, this one is more of a diary entry so I don't forget what happened in Miami. I also needed to write is down so that once everything had died down I could reflect on what happened properly.
+This post isn't going to be like my normal ones, this one is more of a diary entry so I don't forget what happened in Miami. I also needed to write it down so that once everything had died down I could reflect on what happened properly.
 
 There was talk Monday morning of a Hurricane on it's way to Florida. I saw the articles but didn't think too much about it. It's one of those situations that you see online, but you never think it'll happen to you. As the day went on talk of Irma increased. By the evening the Governor of Florida had declared a state emergency and Irma was now a Category 5 hurricane. At that point we knew things were getting serious.
 
