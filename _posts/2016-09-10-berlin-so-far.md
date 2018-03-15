@@ -4,7 +4,7 @@ title: Berlin so far
 excerpt: I have been in Berlin for 7 weeks, it has gone ridiculously quick and I have loved almost every moment. I remember someone saying before I left the UK that I would learn more about UK culture once I'd gone. I didn't quiet fully understand what they meant at the time, but now I do.
 ---
 
-I have been in Berlin for 7 weeks, it has gone ridiculously quick and I have loved *almost* every moment. I remember someone saying before I left the UK that I would learn more about UK culture once I'd gone. I didn't quiet fully understand what they meant at the time, but now I do.
+I have been in Berlin for 7 weeks, it has gone ridiculously quick and I have loved _almost_ every moment. I remember someone saying before I left the UK that I would learn more about UK culture once I'd gone. I didn't quite fully understand what they meant at the time, but now I do.
 
 Firstly, us Brits speak far too much. Coming from me, yes I know. Rather than just getting to the point of what it is we want we dilly daddle around the actual point. Germans are great at saying exactly what it is they want, they're not rude they just don't waste time. This I like a lot.
 

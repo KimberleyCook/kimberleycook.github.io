@@ -27,6 +27,6 @@ Whenever I'm offered a free sample I always take them. They take up barely any s
 
 ![free samples](/images/travel-hacks/samples.jpg)
 
-If there are any other hacks I should know about please tweet me [@kimberleycook91](https://twitter.com/kimberleycook91/)
+If there are any hacks that you use that I've not mentioned then please tweet me [@kimberleycook91](https://twitter.com/kimberleycook91/)
 
 KCx
