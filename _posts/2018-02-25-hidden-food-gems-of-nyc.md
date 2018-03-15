@@ -3,7 +3,7 @@ layout: post
 title: Hidden food gems of NYC
 ---
 
-I've been pretty quiet over the last few months, I went back to London for 3.5 months and being in London is always super busy. My sister had a baby too so I was going back to Southampton to see him and get lots of cuddles, and in the new year I moved onto my next location. All this meant that this lil blog had to take a back seat :( but I'm back with a post about something that is very close to my heart. FOOD!!!
+I've been pretty quiet over the last few months, I went back to London for 3.5 months and being in London is always super busy. My sister had a baby too so I was going back to Southampton to see them and get lots of cuddles, and in the new year I moved onto my next location. All this meant that this lil blog had to take a back seat :( but I'm back with a post about something that is very close to my heart. FOOD!!!
 
 I am a massive foodie. One of my favourite things about travelling is eating food that I wouldn't find anywhere else. When Adam and I booked NYC the first thing I got excited about was all the food I'd get to eat. You'll read everywhere online that NYC is a foodies heaven and it certainly was, before I left I had a list of 42 places I wanted to visit. 37 of those were food places!
 
@@ -17,11 +17,16 @@ This place is one of the best best best, did I say best, hidden gems of New York
 
 **Vanessa's Dumpling House**
 
+<<<<<<< HEAD
 This dumpling house is not something that you'll see on a tourist guide and...if you mention it to any New Yorker they'll get excited. These are probably some of the best Pork and Chive dumplings I've ever had. I highly recommend getting the duck pancake to go with your dumplings too. I didn't eat and of the vegetarian options but a friend who I went with said they wre amazing. And if you're on a budget in NYC, then this place is super cheap too.
 
 **Karasu**
 
-This cool Japenese speakeasy style restaurant is another one of those actual hidden gems! You'll find it by going through the back door of Walter’s in Forte Green, Brooklyn. This place is small, and is very popular so I recommend calling ahead to book a table, or going and waiting an hour by propping yourself at the bar in Walter's. This place has a great vibe, very tasty food and great cocktails.
+# This cool Japenese speakeasy style restaurant is another one of those actual hidden gems! You'll find it by going through the back door of Walter’s in Forte Green, Brooklyn. This place is small, and is very popular so I recommend calling ahead to book a table, or going and waiting an hour by propping yourself at the bar in Walter's. This place has a great vibe, very tasty food and great cocktails.
+
+This dumpling house is not something that you'll see on a tourist guide and...if you mention it to any New Yorker they'll get excited. These are probably some of the best Pork and Chive dumplings I've ever had. I highly recommend getting the duck pancake to go with your dumplings too. I didn't eat and of the vegetarian options but friend who I went with said they wre amazing. And if you're on a budget in NYC, then this place super cheap too.
+
+> > > > > > > working-remotely
 
 **Steve's Authentic Key Lime Pies**
 
@@ -29,10 +34,19 @@ This hidden gem in the heart of Red Hook, Brooklyn is an absolute gold mine. Thi
 
 **Sisters**
 
+<<<<<<< HEAD
 This is one of the best brunch spots I went to during our 2 month stay. The decor is amazing, the food was very good (and big, so you may want to share) and the location was 5 minutes from Brooklyn Museum so worth stopping here before visiting there.
 
 **Employees Only**
 
-This isn't technically food but I couldn't not add this to my hidden gems list. If you're into cocktails (who isn't) then this place in West Village is an absolute must. It's fairly pricey but my god these cocktails were damn good. It's quite small so it can get pretty busy, if it's a weekend get there early to get a seat. They'll also make you a cocktail based on what you like. Adam told me this was the best Mezcal based cocktail he'd ever had. Oh and don't forget (like we did) if you get bar snacks to pay the food tip, we just paid the standard $1 dollar tip per cocktails and felt awful after we left.
+# This isn't technically food but I couldn't not add this to my hidden gems list. If you're into cocktails (who isn't) then this place in West Village is an absolute must. It's fairly pricey but my god these cocktails were damn good. It's quite small so it can get pretty busy, if it's a weekend get there early to get a seat. They'll also make you a cocktail based on what you like. Adam told me this was the best Mezcal based cocktail he'd ever had. Oh and don't forget (like we did) if you get bar snacks to pay the food tip, we just paid the standard $1 dollar tip per cocktails and felt awful after we left.
+
+This is one of the best brunch spots I went to during our 2 month stay. The decor is amazing, the food was ery good (and big, so you may want to share) and the location was 5 minutes from Brooklyn Museum so worth stopping here before visiting there.
+
+**Employees Only**
+
+This isn't technically food but I couldn't not add this to my hidden gems list. If you're into cocktails (who isn't) then this place in West Village is an absolute must. It's fairly pricey but my god these cocktails were damn good. It's quiet small so it can get pretty busy, if it's a weekend get there early to get a seat. Oh and don't forget (like we did) if you get bar snacks then pay the food tip, we just paid the extra $1 dollar tip for cocktails and felt awful after we left.
+
+> > > > > > > working-remotely
 
 KCx
