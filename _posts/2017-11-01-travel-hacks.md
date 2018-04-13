@@ -9,7 +9,9 @@ After 18 months of travelling light I've learnt a thing or two, in this post I'm
 
 If there's only one hack you take from this post it's this one. Packing cubes, they squash down clothes meaning you can take more with you. Win! I would seriously not be able to travel without them. I use these [Eagle Creek](https://www.amazon.co.uk/Eagle-Creek-Pack-Cube-Black/dp/B00F9S85CS/ref=sr_1_1?ie=UTF8&qid=1509475368&sr=8-1&keywords=eagle+creek+packing+cube) ones, and normally take 2 regular size ones, a small one and a long thin one. These all fit perfectly into my backpack. I have also tried the Amazon own brand ones but didn't think the quality was as good.
 
-![packing cubes](/images/travel-hacks/packing-cubes.jpg)
+<figure>
+  <img src="/images/travel-hacks/packing-cubes.jpg" class="medium-image" alt="packing cubes">
+</figure>
 
 **2) Foldable water bottle**
 
@@ -19,13 +21,17 @@ I did not get my first foldable water bottle till 7 months into my travelling an
 
 I know some digital nomads buy new toiletries whenever they move to a new location, but sometimes Adam and I can move every month so this would not be financially worth it. Therefore one thing we always try to do is buy squeezy products that get smaller as you use them. This saves us a ton of space and means we don't waste money buying new products every destination.
 
-![squeezy bottles](/images/travel-hacks/squeezy-bottles.jpg)
+<figure>
+  <img src="/images/travel-hacks/squeezy-bottles.jpg" class="medium-image" alt="squeezy bottles">
+</figure>
 
 **4) Free samples**
 
 Whenever I'm offered a free sample I always take them. They take up barely any space, and when you're moving between locations and have one/two nights somewhere they come in super handy. Plus it's a great way of trying out new products.
 
-![free samples](/images/travel-hacks/samples.jpg)
+<figure>
+  <img src="/images/travel-hacks/samples.jpg" class="medium-image" alt="free samples">
+</figure>
 
 If there are any other hacks I should know about please tweet me [@kimberleycook91](https://twitter.com/kimberleycook91/)
 
