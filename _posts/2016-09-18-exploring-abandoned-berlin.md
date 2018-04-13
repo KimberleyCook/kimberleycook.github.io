@@ -21,25 +21,45 @@ Till, we met Astrid. A travel blogger who (cleverly) hadn't read much online and
 
 As I was jumping over my heart was beating so bloody fast. I don't remember much except jumping over, then running as fast as I could into the bushes. We started to slowly wander and within 5 minutes saw a guard. We dived into some bushes next to the abandoned bumper cars.
 
-![See us hiding](/images/spreepark/DSC01274.jpg)
+<figure>
+    <img src="/images/spreepark/DSC01274.jpg" alt="See us hiding">
+    <figcaption>Can you see Adam hiding</figcaption>
+</figure>
+
 
 I cannot tell you the last time I felt scared of getting told off by someone. Looking back now it's hilarious, but at the time I was petrified. Once we'd waited 5 minutes till the guard had gone we continued exploring.
 
-![The abandoned tea cups](/images/spreepark/DSC01260.jpg)
+<figure>
+    <img src="/images/spreepark/DSC01260.jpg" alt="The abandoned tea cupsg">
+</figure>
 
-![The abandoned playground](/images/spreepark/DSC01272.jpg)
+<figure>
+    <img src="/images/spreepark/DSC01272.jpg" alt="The abandoned playground">
+</figure>
 
-![The abandoned bumper car](/images/spreepark/DSC01278.jpg)
+<figure>
+    <img src="/images/spreepark/DSC01278.jpg" alt="The abandoned bumper car">
+</figure>
 
-![The abandoned ferris wheel](/images/spreepark/DSC01280.jpg)
+<figure>
+    <img src="/images/spreepark/DSC01280.jpg" alt="The abandoned ferris wheel">
+</figure>
 
-![The abandoned rollercoaster](/images/spreepark/DSC01306.jpg)
+<figure>
+    <img src="/images/spreepark/DSC01306.jpg" alt="The abandoned rollercoaster">
+</figure>
 
-![The abandoned rollercoaster](/images/spreepark/DSC01308.jpg)
+<figure>
+    <img src="/images/spreepark/DSC01308.jpg" alt="The abandoned ferris wheel">
+</figure>
 
-![The abandoned log flume cars](/images/spreepark/DSC01313.jpg)
+<figure>
+    <img src="/images/spreepark/DSC01313.jpg" alt="The abandoned log flume cars">
+</figure>
 
-![The abandoned exit of the log flume](/images/spreepark/DSC01317.jpg)
+<figure>
+    <img src="/images/spreepark/DSC01317.jpg" alt="The abandoned exit of the log flume">
+</figure>
 
 We spent 2.5 hours in the park and it is the best thing I have done in Berlin so I am so glad we met Astrid. Sometimes all you need is someone to tell you to stop being a fool and have fun.
 
@@ -49,30 +69,48 @@ Up next was Teufelsberg, a man-made hill that covers a Nazi military-technical c
 
 The first thing I noticed when I started walking around was the graffiti.
 
-![Graffiti](/images/teufelsberg/DSC01339.jpg)
+<figure>
+    <img src="/images/teufelsberg/DSC01339.jpg" alt="Graffiti">
+</figure>
 
-Even a spray can bin.
+<figure>
+    <img src="/images/teufelsberg/DSC01343.jpg" alt="Graffiti">
+    <figcaption>Even a spray can bin.</figcaption>
+</figure>
 
-![Graffiti can bin](/images/teufelsberg/DSC01343.jpg)
+You can also tell people party here as there were empty glass bottles everywhere. Also this hole in the wall DEFINITELY looks like a DJ booth.
 
-You can also tell people party here as there were empty glass bottles everywhere. Also this hole in wall DEFINITELY looks like a DJ booth.
-
-![Possible DJ booth](/images/teufelsberg/DSC01342.jpg)
+<figure>
+    <img src="/images/teufelsberg/DSC01342.jpg" alt="Possible DJ booth">
+</figure>
 
 Now onto the Spy Tower. My favourite thing about this place was that you could only get to the top of the tower via a pitch black concrete staircase with signs like this.
 
-![Funny graffiti sign](/images/teufelsberg/DSC01352.jpg)
+<figure>
+    <img src="/images/teufelsberg/DSC01352.jpg" alt="Funny graffiti sign">
+</figure>
 
-![Part of the abandoned spy tower](/images/teufelsberg/DSC01353.jpg)
+<figure>
+    <img src="/images/teufelsberg/DSC01353.jpg" alt="Part of the abandoned spy tower">
+</figure>
 
-![Part of the abandoned spy tower](/images/teufelsberg/DSC01362.jpg)
+<figure>
+    <img src="/images/teufelsberg/DSC01362.jpg" alt="Part of the abandoned spy tower">
+</figure>
 
-![Part of the abandoned spy tower](/images/teufelsberg/DSC01375.jpg)
+<figure>
+    <img src="/images/teufelsberg/DSC01375.jpg" alt="Part of the abandoned spy tower">
+</figure>
 
 See, a spy tower! Hi Berlin.
 
-![Peek a book Berlin](/images/teufelsberg/DSC01372.jpg)
+<figure>
+    <img src="/images/teufelsberg/DSC01372.jpg" alt="Peek a boo Berlin">
+</figure>
 
 Visiting these 2 places was hugely inspired by finding this website, [Abandoned Berlin](http://www.abandonedberlin.com/), which I highly recommend looking through. (If abandoned creepy shit is your thing of course). One of the things I did not get time to explore was this [abandoned hospital](http://www.abandonedberlin.com/2015/06/koenigin-elisabeth-hospital.html). Always next time :)
 
 KC x
+
+P.S If you haven't already, be sure to take a read of my other [Berlin](http://travel.builtby.kim/berlin-so-far/) post.
+

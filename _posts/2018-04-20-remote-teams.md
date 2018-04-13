@@ -4,7 +4,7 @@ title: Remote teams
 tags: [remote working, digital nomad, travel]
 ---
 
-As a follow up to my [remote working](http://travel.builtby.kim/remote-working/) post I thought I'd write a post discussing a few things I think companies and teams can do to improve the experience for remote members.
+As a follow up to my [remote working](http://travel.builtby.kim/remote-working/) post I thought I'd write a post discussing a few things I think companies and teams can do to improve the experience for remote workers.
 
 **Meetings**
 
@@ -33,6 +33,6 @@ You could even go one step further than documentation; automated code linting. T
 
 One thing that you can miss out on when working remote is face-to-face communication. Rather than spending time typing out something over Slack you could have a quick call. If you were in the office and wanted to rubber duck with someone for a few minutes you would ask them. This can be done with remote working too. Having a face-to-face call saves you both so much time. Also it's nice to have a quick video call to keep in touch with the team.
 
-Now did you notice anything about all of the points... they are all about **communication.** This is fundamentally the most important thing when teams are remote. I truly believe that if your communication as a team is not good, working remote will not be an enjoyable experience.
+Now did you notice anything about all of these points... they are all about **communication.** This is fundamentally the most important thing with remote teams. I truly believe that if your communication as a team is not good, working remote will not be an enjoyable experience.
 
-KCx
+KC x
