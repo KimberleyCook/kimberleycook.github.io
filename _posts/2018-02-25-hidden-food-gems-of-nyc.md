@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hidden food gems of NYC
+tags: [remote working, digital nomad, hidden good gems of new york, hidden good gems of NYC, secret palces to eat in NYC ]
 ---
 
 I've been pretty quiet over the last few months, I went back to London for 3.5 months and being in London is always super busy. My sister had a baby too so I was going back to Southampton to see them and get lots of cuddles, and in the new year I moved onto my next location. All this meant that this lil blog had to take a back seat :( but I'm back with a post about something that is very close to my heart. FOOD!!!

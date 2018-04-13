@@ -1,9 +1,11 @@
 ---
 layout: post
 title: Beautiful Istanbul!
+tags: [remote working, digital nomad, travel in instanbul, best things to do in instanbul ]
+
 ---
 
-When I initially set out to write this post I wanted to write about all the reasons why you should visit Istanbul ASAP. However after some thought I realised that that was not the direction I wanted this post to go in. Instead, I have decided to write about all the incredible things about one of the most beautiful cities I have ever visited as you may only be seeing negative stories in the news.   
+When I initially set out to write this post I wanted to write about all the reasons why you should visit Istanbul ASAP. However after some thought I realised that that was not the direction I wanted this post to go in. Instead, I have decided to write about all the incredible things about one of the most beautiful cities I have ever visited as you may only be seeing negative stories in the news.
 
 ### Cats
 I cannot talk about loving Istanbul without talking about the cats. Everywhere you go you will see them; sleeping on motorbike seats, wandering inside shops and cafes, even sat with you whilst you play a game of Backgammon.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Remote teams
+tags: [remote working, digital nomad, travel]
 ---
 
 As a follow up to my [remote working](http://travel.builtby.kim/remote-working/) post I thought I'd write a post discussing a few things I think companies and teams can do to improve the experience for remote members.

@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Exploring abandoned Berlin
+tags: [remote working, digital nomad, berlin, exploring abandoned berlin, exploring berlin, abandoned architecturein berlin  ]
 ---
 
-One of my favourite things about Berlin is its history. Yes Berlin has many museums, and is very well known for it's clubbing reputation. But one of the things that intrigues me the most are the abandoned parts you'll find hidden around the city.  
+One of my favourite things about Berlin is its history. Yes Berlin has many museums, and is very well known for it's clubbing reputation. But one of the things that intrigues me the most are the abandoned parts you'll find hidden around the city.
 
 When I visited last summer I got a taste for it when visiting Tempelhof. An airport abandoned in 2008, that was built by the Nazi's in the mid 1930's. You are unable to go inside but you can cycle around the [airfield](https://www.instagram.com/p/7DuIW9q-Be/?taken-by=kimberleycook). After reading more about abandoned places last summer I knew that the next time I visited I had to explore a few.
 

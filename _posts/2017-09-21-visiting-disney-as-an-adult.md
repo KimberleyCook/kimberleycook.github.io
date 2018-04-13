@@ -2,6 +2,8 @@
 layout: post
 title: Visiting Disney World as an adult
 excerpt: If you're an adult and someone says to you "Why are you visiting Disney World, isn't it for children?", punch them in the face. Nah I'm joking don't punch them in the face, send them this article instead about how Disney World it totally for adults too.
+tags: [remote working, digital nomad, visiting disneyworld as an adult, disneyworld hacks, disneyworld tricks ]
+
 ---
 
 When Adam and I decided to go to Disney World I'm not gong to lie my expectations were pretty low. Not because I didn't know it wouldn't be magical because I knew it would. But because it's never been a dream of mine to go. Yes I love Disney, and yes I grew up watching Disney films but it was never somewhere I would want to spend months saving for. So when we decided to go to Miami for 3 weeks it was a no brainer. This article isn't going to tell you to visit, what it will do is give you some useful bits of information to know before you visit.
@@ -16,7 +18,7 @@ Third tip, if it's your first time visiting or you're celebrating a birthday, fi
 
 Fourth tip, download the Disney app. There are so many things in the app that you can do that enhance your trip experience. I know that's ridiculous because it's an app, but being able to see queue times is huge, being able to book a table in a restaurant and see showtimes. This all makes it worthwhile and the app is free.
 
-Fifth and final tip, if you're not staying in a Disney resort hotel the wristbands are pretty pointless. Yes they're fun and make a good souvenir, but you don't need one. Being able to link up your debit/credit card is the best benefit, but you don't get that feature if you're not staying in one of their resorts. You can do everything with your entrance card. I say this but we did get one because we wanted it as a souvenir and for $12.99 it's not super expensive.  
+Fifth and final tip, if you're not staying in a Disney resort hotel the wristbands are pretty pointless. Yes they're fun and make a good souvenir, but you don't need one. Being able to link up your debit/credit card is the best benefit, but you don't get that feature if you're not staying in one of their resorts. You can do everything with your entrance card. I say this but we did get one because we wanted it as a souvenir and for $12.99 it's not super expensive.
 
 ![Disney Wristbands](/images/disney-wristbands.jpg)
 

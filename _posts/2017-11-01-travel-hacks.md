@@ -1,6 +1,7 @@
 ---
 layout: post
 title: ! '#travelhacks'
+tags: [remote working, digital nomad, travel hacks, save space whilst travelling, minimalist travelling ]
 ---
 
 After 18 months of travelling light I've learnt a thing or two, in this post I'm going to focus on a few travel hacks I've learnt along the way.

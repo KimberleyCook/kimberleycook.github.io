@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Remote working
+tags: [remote working, digital nomad, travel]
 ---
 
 When I tell people I travel and work full-time the first thing I get asked is how do I make sure that I _actually_ do work? In this post I'm going to explain a few little things I do to keep myself motivated.
