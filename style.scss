@@ -47,6 +47,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 30px;
   color: $h1-color;
+  margin-bottom: 0;
   a {
     color: inherit;
   }
@@ -58,8 +59,9 @@ h2 {
 }
 
 h3 {
-  font-size: 20px;
+  font-size: 14px;
   color: $h3-color;
+  margin-top: 0;
 }
 
 h4 {
