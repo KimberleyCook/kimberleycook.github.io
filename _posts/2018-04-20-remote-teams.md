@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Remote teams
+excerpt:: As a follow up to my remote working post I thought I’d write a post discussing a few things I think companies and teams can do to improve the experience for remote workers.
 tags: [remote working, digital nomad, travel]
 ---
 
@@ -15,7 +16,7 @@ If any of your team members are remote, make sure everyone goes on their own com
 If as a team you have a daily face-to-face stand up, and one of your team members is remote, take that little bit of time and effort to dial them in. It's surprising what bits of information the person not included may miss. I once missed a vital bit of information that resulted in me spending 2 hours trying to set up a project from a bitbucket repository when in fact the company had moved to GitHub.
 
 <figure>
-  <img src="/images/remote-team.jpg" class="small-image" alt="remote team">
+  <img src="/images/remote-working/remote-team.jpg" class="small-image" alt="remote team">
   <figcaption>The Hive team doing stand up</figcaption>
 </figure>
 
