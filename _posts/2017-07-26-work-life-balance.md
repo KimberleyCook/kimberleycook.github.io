@@ -3,13 +3,13 @@ layout: post
 title: Work–life balance
 ---
 
-One of the hardest parts of travelling is finding the perfect work and life balance. When you're moving country every 1/2 months it can be extremely difficult. You want to explore the new and exciting place you're in, but also you need to work.
+One of the hardest parts of travelling is finding the perfect work and life balance. When you’re moving country every 1/2 months it can be extremely difficult. You want to explore the new and exciting place you’re in, but also you need to work.
 
 First things first is I love my job. I always have done, ever since I started working as a web developer 5 years ago, so stopping work to travel would never be an option for me. Sounds cheesy but my job is my hobby. I get to build things that I know people around the world are using daily. Some things I have built have potentially saved lives. However this passion can clash with my other passion, travelling.
 
-The excitement I get from exploring a new place is intoxicating. I want to keep doing it over and over again. I have always travelled and explored, whether it's going to another country or even going on little trips to somewhere new in the UK.
+The excitement I get from exploring a new place is intoxicating. I want to keep doing it over and over again. I have always travelled and explored, whether it’s going to another country or even going on little trips to somewhere new in the UK.
 
-Therefore making the decision to leave London a year ago for life on the road has had it's challenges. There has been times when I've come to the end of my month somewhere and felt rubbish that I'd only seen half the things I wanted because I spent 70% of the time on my laptop. Or there are days when I've gone exploring with my camera, done no work then had to work all evening to make up for it.
+Therefore making the decision to leave London a year ago for life on the road has had it’s challenges. There has been times when I’ve come to the end of my month somewhere and felt rubbish that I’d only seen half the things I wanted because I spent 70% of the time on my laptop. Or there are days when I’ve gone exploring with my camera, done no work then had to work all evening to make up for it.
 
 But one thing I have learnt is **do not** feel bad for spending time away from your laptop. Spending an hour or two going up the mountains in the morning or going for that sunrise hike will make you feel 10x better. You will go back to your laptop feeling more motivated and inspired than you did before.
 
