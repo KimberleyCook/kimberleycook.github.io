@@ -1,7 +1,7 @@
 ---
 layout: post
 title: One year on
-tags: [remote working, digital nomad, one year of travelling, bad bits of travelling  ]
+tags: [remote working, digital nomad, one year of travelling, bad bits of travelling, female traveller]
 ---
 
 So Adam and I have been on the road for a year now and I feel like I need to write down some of my experiences and thoughts. I particularly want to talk about some parts of travelling that people never talk about.

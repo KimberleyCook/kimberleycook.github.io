@@ -2,6 +2,8 @@
 layout: post
 title: Exercise and travel
 excerpt: One of the hardest things I’ve found about travelling is fitting in exercise. I feel better after exercising, it clears my mind. It’s me time and that’s what I missed.
+tags: [remote working, digital nomad, exercise whilst travelling, female traveller, exercise in berlin]
+
 ---
 
 One of the hardest things I’ve found about travelling is fitting in exercise. I have always exercised, whether it’s bouldering, snowboarding, playing on the college basketball team, the football team in secondary school or a Southampton to Paris cycle. Or cycling to and from work, totalling 13 miles everyday. I feel better after exercising, it clears my mind. Particularly cycling, I put headphones in and just go out and cycle 25 miles. It&rsquo;s me time and that’s what I missed.

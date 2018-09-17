@@ -2,7 +2,7 @@
 layout: post
 title: Visiting Disney World as an adult
 excerpt: If you’re an adult and someone says to you "Why are you visiting Disney World, isn’t it for children?", punch them in the face. Nah I’m joking don’t punch them in the face, send them this article instead about how Disney World it totally for adults too.
-tags: [remote working, digital nomad, visiting disneyworld as an adult, disneyworld hacks, disneyworld tricks ]
+tags: [remote working, digital nomad, visiting disney world as an adult, disney world hacks, disney hacks, disney world tricks, female traveller ]
 ---
 
 When Adam and I decided to go to Disney World I’m not gong to lie my expectations were pretty low. Not because I didn’t know it wouldn’t be magical because I knew it would. But because it’s never been a dream of mine to go. Yes I love Disney, and yes I grew up watching Disney films but it was never somewhere I would want to spend months saving for. So when we decided to go to Miami for 3 weeks it was a no brainer. This article isn’t going to tell you to visit, what it will do is give you some useful bits of information to know before you visit.

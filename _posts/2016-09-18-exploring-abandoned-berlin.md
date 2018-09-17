@@ -1,13 +1,12 @@
 ---
 layout: post
 title: Exploring abandoned Berlin
-tags: [remote working, digital nomad, berlin, exploring abandoned berlin, exploring berlin, abandoned architecturein berlin  ]
+tags: [remote working, digital nomad, berlin, exploring abandoned berlin, exploring berlin, abandoned architecture in berlin, explore Spreepark, explore abandoned Spreepark, explore Teufelsberg, explore abandoned Teufelsberg]
 ---
 
 One of my favourite things about Berlin is its history. Yes Berlin has many museums, and is very well known for it’s clubbing reputation. But one of the things that intrigues me the most are the abandoned parts you’ll find hidden around the city.
 
 When I visited last summer I got a taste for it when visiting Tempelhof. An airport abandoned in 2008, that was built by the Nazi’s in the mid 1930’s. You are unable to go inside but you can cycle around the [airfield](https://www.instagram.com/p/7DuIW9q-Be/?taken-by=kimberleycook). After reading more about abandoned places last summer I knew that the next time I visited I had to explore a few.
-
 
 ### Spreepark
 
@@ -25,7 +24,6 @@ As I was jumping over my heart was beating so bloody fast. I don’t remember mu
     <img src="/images/spreepark/DSC01274.jpg" alt="See us hiding">
     <figcaption>Can you see Adam hiding</figcaption>
 </figure>
-
 
 I cannot tell you the last time I felt scared of getting told off by someone. Looking back now it’s hilarious, but at the time I was petrified. Once we’d waited 5 minutes till the guard had gone we continued exploring.
 
@@ -113,4 +111,3 @@ Visiting these 2 places was hugely inspired by finding this website, [Abandoned 
 KC x
 
 P.S If you haven’t already, be sure to take a read of my other [Berlin](http://travel.builtby.kim/berlin-so-far/) post.
-

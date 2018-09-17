@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Whistler Train Wreck
-tags: [whistler, whistler train wreck, hiking in whistler, remote working, digital nomad, travel]
+tags: [whistler, whistler train wreck, hiking in whistler, remote working, digital nomad, female traveller, travel]
 ---
 
 Whistler is known all around the world for its world class skiing and snowboarding. It is the largest ski resort in North America, but what happens when the snow starts to melt?
