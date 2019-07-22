@@ -10,7 +10,7 @@ excerpt: ''
 
 - I filled in the application form for XOXO conference a few weeks back and then heard this week that I have a ticket. Absolutely buzzing. I joined their Slack channel too, they have so many channels on there that I’ve joined. Also found out a friend from London (who now lives in Toronto) is going to be there too which is exciting.
 
-- Tomorrow Adam and I head back to Canada so the last few days I’ve been down south saying my goodbyes. I’m so exited for summer in Whistler; biking, hiking and camping but saying goodbye the family is always super hard.
+- Tomorrow Adam and I head back to Canada so the last few days I’ve been down south saying my goodbyes. I’m so excited for summer in Whistler; biking, hiking and camping but saying goodbye the family is always super hard.
 
 KC x
 
