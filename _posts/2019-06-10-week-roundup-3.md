@@ -22,4 +22,4 @@ This whole thing sucks and is a complete blow to my summer plans but I'm trying 
 
 KC x
 
-P.S Click [here](http://127.0.0.1:4000/week-roundup-2/) to read my previous week round up.
+P.S Click [here](https://travel.builtby.kim/week-roundup-2/) to read my previous week round up.
