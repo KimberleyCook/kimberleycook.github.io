@@ -12,7 +12,7 @@ I've wanted to take a little break for a while now. Not because I don't enjoy my
 
 2) A break - ever since I was 16 I've worked. I worked Saturdays and Sundays throughout college and university because I needed money to live. Barely ever getting a day off. I then finished university and started working straight away. So I never took the normal break between these big life events like some people. But now I want some time out to think about my life and process if it's going in the direction I want.
 
-3) Do something different - I've got a part-time job on the lifts ere in Whistler. I'll be working in the validation team, so stood at the bottom of the lifts making sure everyone who goes up has a valid pass.  
+3) Do something different - I've got a part-time job on the lifts here in Whistler. I'll be working in the validation team, so stood at the bottom of the lifts making sure everyone who goes up has a valid pass.  
 
 4) Oh and of course snowboard loads!! 🏂 I've got my hands on a splitboard this season so my I plan is to start exploring the Whistler Blackcomb backcountry.
 
@@ -22,7 +22,7 @@ I've wanted to take a little break for a while now. Not because I don't enjoy my
   <figcaption>Me recently on a snowmobile tour with <a href="https://www.canadianwilderness.com" target="_blank">Canadian Wilderness Adventures</a></figcaption>
 </figure>
 
-I'm currently in this weird state where I have free time and I'm not 100% sure what to do with myself so if you've ever taken a career break I'd love to hear from you. 
+I'm currently in this weird state where I have free time and I'm not 100% sure what to do with myself so if you've ever taken a career break I'd love to hear from you.
 
 KC x
 

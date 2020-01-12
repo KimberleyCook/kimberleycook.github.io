@@ -5,7 +5,7 @@ excerpt: 'It’s bonkers to think how quickly your life can change. On Saturday 
 '
 ---
 
-It’s bonkers how quickly your life can change. On Saturday 15th June, I was in the bike park with Adam and Tom. We got the gondola up, dropped into our first run (Blueberry Bathtub), 3 turns in I go over the handlebars on my bike.
+It’s bonkers how quickly your life can change. On Saturday 15th June, I was in the bike park with Adam and Tom. We got the gondola up, dropped into our first run (Blueberry Bathtub), 3 turns in and I go flying over the handlebars.
 
 I was winded so my initial thought was to try and breathe. A few moments later Adam came up to me and asked how I was, it was then that I realised I couldn’t move my arm. Something was wrong with my shoulder. I told Adam who said that if I couldn’t ride then we needed to call patrol. They were incredible responsive and were with us within 10 minutes. They looked at my shoulder and said they didn’t think anything serious had happened but likely an AC separation.
 
